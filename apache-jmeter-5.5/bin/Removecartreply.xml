@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,success,failureMessage,bytes,grpThreads,allThreads,Latency,SampleCount,ErrorCount,Hostname
+1697452775168,1733,Konakart_T01_Homepage,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,47062,1,1,0,1,0,DESKTOP-VUVO1UU
+1697452776921,285,Konakart_T02_ClickonMyAccount,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,22691,1,1,0,1,0,DESKTOP-VUVO1UU
+1697452777208,705,Konakart_T03_EntertheloginDeatils,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,40327,1,1,0,1,0,DESKTOP-VUVO1UU
+1697452777919,3223,Konakart_T04_Clickonproduct,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,true,,205146,1,1,0,1,0,DESKTOP-VUVO1UU
+1697452781146,294,Konakart_T05_ClickonAddCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,2040,1,1,0,1,0,DESKTOP-VUVO1UU
+1697452781443,306,Konakart_T06_ClickonsoppingCart,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,31372,1,1,0,1,0,DESKTOP-VUVO1UU
+1697452781753,334,Konakart_T07_Clickonremovebutton,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,31390,1,1,0,1,0,DESKTOP-VUVO1UU
+1697452782090,311,Konakart_T08_logoff,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,21949,1,1,0,1,0,DESKTOP-VUVO1UU

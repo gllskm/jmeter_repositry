@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1004" it="0" lt="1004" ct="747" ts="1697721804487" s="false" lb="-1 /basic-auth/user/password" rc="401" rm="UNAUTHORIZED" tn="" dt="" de="" by="245" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-VUVO1UU">
+  <responseHeader class="java.lang.String">HTTP/1.1 401 UNAUTHORIZED
+Date: Thu, 19 Oct 2023 13:23:24 GMT
+Content-Length: 0
+Connection: close
+Server: gunicorn/19.9.0
+WWW-Authenticate: Basic realm=&quot;Fake Realm&quot;
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.5
+DNT: 1
+Sec-Fetch-User: ?1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Host: httpbin.org
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://httpbin.org/basic-auth/user/password</java.net.URL>
+</httpSample>
+<httpSample t="956" it="0" lt="954" ct="718" ts="1697721812901" s="true" lb="-2 /basic-auth/user/password" rc="200" rm="OK" tn="" dt="text" de="" by="271" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-VUVO1UU">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Thu, 19 Oct 2023 13:23:33 GMT
+Content-Type: application/json
+Content-Length: 47
+Connection: close
+Server: gunicorn/19.9.0
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.5
+DNT: 1
+Sec-Fetch-User: ?1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Authorization: Basic dXNlcjpwYXNzd29yZA==
+Host: httpbin.org
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">{
+  &quot;authenticated&quot;: true, 
+  &quot;user&quot;: &quot;user&quot;
+}
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://httpbin.org/basic-auth/user/password</java.net.URL>
+</httpSample>
+
+</testResults>

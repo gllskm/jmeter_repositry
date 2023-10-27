@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,success,failureMessage,bytes,grpThreads,allThreads,Latency,SampleCount,ErrorCount,Hostname
+1697556328716,1709,Astm_T01_Homepage,200,"Number of samples in transaction : 15, number of failing samples : 0",Thread Group 1-1,true,,443606,1,1,0,1,0,DESKTOP-VUVO1UU
+1697556330438,4058,Astm_T02_membership,200,"Number of samples in transaction : 24, number of failing samples : 0",Thread Group 1-1,true,,54509,1,1,0,1,0,DESKTOP-VUVO1UU
+1697556334528,2327,Astm_T03_ClickonMembershipType,200,"Number of samples in transaction : 14, number of failing samples : 0",Thread Group 1-1,true,,45644,1,1,0,1,0,DESKTOP-VUVO1UU
+1697556336872,1377,Astm_T04_RandomMembership,200,"Number of samples in transaction : 14, number of failing samples : 0",Thread Group 1-1,true,,46356,1,1,0,1,0,DESKTOP-VUVO1UU
+1697556338264,2337,Astm_T05_Download,200,"Number of samples in transaction : 3, number of failing samples : 1",Thread Group 1-1,false,,87866,1,1,0,1,1,DESKTOP-VUVO1UU

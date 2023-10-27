@@ -1,0 +1,51 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,success,failureMessage,bytes,grpThreads,allThreads,Latency,SampleCount,ErrorCount,Hostname
+1697632557762,1752,Swingpay_T01_Homepage,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,true,,224668,4,4,0,1,0,DESKTOP-VUVO1UU
+1697632558272,1700,Swingpay_T01_Homepage,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-2,true,,224668,5,5,0,1,0,DESKTOP-VUVO1UU
+1697632559523,504,Swingpay_T02_ClickonSiginbutton,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,23342,5,5,0,1,0,DESKTOP-VUVO1UU
+1697632558774,1604,Swingpay_T01_Homepage,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-3,true,,224668,6,6,0,1,0,DESKTOP-VUVO1UU
+1697632559982,504,Swingpay_T02_ClickonSiginbutton,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,true,,23342,6,6,0,1,0,DESKTOP-VUVO1UU
+1697632560387,496,Swingpay_T02_ClickonSiginbutton,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,true,,23342,7,7,0,1,0,DESKTOP-VUVO1UU
+1697632560032,897,Swingpay_T03_EntertheLogindeatils,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,100122,7,7,0,1,0,DESKTOP-VUVO1UU
+1697632559271,1725,Swingpay_T01_Homepage,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-4,true,,224668,7,7,0,1,0,DESKTOP-VUVO1UU
+1697632560492,936,Swingpay_T03_EntertheLogindeatils,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,true,,100124,8,8,0,1,0,DESKTOP-VUVO1UU
+1697632559773,1682,Swingpay_T01_Homepage,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-5,true,,224668,8,8,0,1,0,DESKTOP-VUVO1UU
+1697632561002,517,Swingpay_T02_ClickonSiginbutton,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,true,,23342,8,8,0,1,0,DESKTOP-VUVO1UU
+1697632560934,697,Swingpay_T04_Logoff,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,19039,8,8,0,1,0,DESKTOP-VUVO1UU
+1697632561637,3,Debug Sampler,200,OK,Thread Group 1-1,true,,414,8,8,0,1,0,DESKTOP-VUVO1UU
+1697632560887,913,Swingpay_T03_EntertheLogindeatils,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,true,,100126,8,8,0,1,0,DESKTOP-VUVO1UU
+1697632560272,1700,Swingpay_T01_Homepage,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-6,true,,224668,8,8,0,1,0,DESKTOP-VUVO1UU
+1697632561466,514,Swingpay_T02_ClickonSiginbutton,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,true,,23342,8,8,0,1,0,DESKTOP-VUVO1UU
+1697632561432,704,Swingpay_T04_Logoff,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,true,,19039,8,8,0,1,0,DESKTOP-VUVO1UU
+1697632562139,3,Debug Sampler,200,OK,Thread Group 1-2,true,,413,8,8,0,1,0,DESKTOP-VUVO1UU
+1697632561523,935,Swingpay_T03_EntertheLogindeatils,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,true,,100126,8,8,0,1,0,DESKTOP-VUVO1UU
+1697632561802,689,Swingpay_T04_Logoff,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,true,,19039,8,8,0,1,0,DESKTOP-VUVO1UU
+1697632562495,3,Debug Sampler,200,OK,Thread Group 1-3,true,,415,8,8,0,1,0,DESKTOP-VUVO1UU
+1697632561980,524,Swingpay_T02_ClickonSiginbutton,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,true,,23342,7,7,0,1,0,DESKTOP-VUVO1UU
+1697632561983,895,Swingpay_T03_EntertheLogindeatils,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,true,,100132,7,7,0,1,0,DESKTOP-VUVO1UU
+1697632561255,1687,Swingpay_T01_Homepage,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-8,true,,224668,7,7,0,1,0,DESKTOP-VUVO1UU
+1697632562461,700,Swingpay_T04_Logoff,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,true,,19039,7,7,0,1,0,DESKTOP-VUVO1UU
+1697632563165,2,Debug Sampler,200,OK,Thread Group 1-4,true,,415,7,7,0,1,0,DESKTOP-VUVO1UU
+1697632561754,1610,Swingpay_T01_Homepage,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-9,true,,224668,6,6,0,1,0,DESKTOP-VUVO1UU
+1697632562510,947,Swingpay_T03_EntertheLogindeatils,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,true,,100124,6,6,0,1,0,DESKTOP-VUVO1UU
+1697632562950,505,Swingpay_T02_ClickonSiginbutton,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,true,,23342,6,6,0,1,0,DESKTOP-VUVO1UU
+1697632562881,703,Swingpay_T04_Logoff,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,true,,19039,6,6,0,1,0,DESKTOP-VUVO1UU
+1697632563588,1,Debug Sampler,200,OK,Thread Group 1-5,true,,414,6,6,0,1,0,DESKTOP-VUVO1UU
+1697632560756,2882,Swingpay_T01_Homepage,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-7,true,,224668,5,5,0,1,0,DESKTOP-VUVO1UU
+1697632563370,511,Swingpay_T02_ClickonSiginbutton,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,true,,23342,5,5,0,1,0,DESKTOP-VUVO1UU
+1697632562255,1650,Swingpay_T01_Homepage,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-10,true,,224668,5,5,0,1,0,DESKTOP-VUVO1UU
+1697632563460,700,Swingpay_T04_Logoff,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,true,,19039,5,5,0,1,0,DESKTOP-VUVO1UU
+1697632564164,1,Debug Sampler,200,OK,Thread Group 1-6,true,,415,5,5,0,1,0,DESKTOP-VUVO1UU
+1697632563460,885,Swingpay_T03_EntertheLogindeatils,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,true,,100126,4,4,0,1,0,DESKTOP-VUVO1UU
+1697632563646,712,Swingpay_T02_ClickonSiginbutton,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,true,,23342,4,4,0,1,0,DESKTOP-VUVO1UU
+1697632563913,498,Swingpay_T02_ClickonSiginbutton,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,true,,23342,4,4,0,1,0,DESKTOP-VUVO1UU
+1697632563884,898,Swingpay_T03_EntertheLogindeatils,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,true,,100126,4,4,0,1,0,DESKTOP-VUVO1UU
+1697632564348,694,Swingpay_T04_Logoff,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,true,,19039,4,4,0,1,0,DESKTOP-VUVO1UU
+1697632565045,2,Debug Sampler,200,OK,Thread Group 1-8,true,,415,4,4,0,1,0,DESKTOP-VUVO1UU
+1697632564415,968,Swingpay_T03_EntertheLogindeatils,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,true,,100124,3,3,0,1,0,DESKTOP-VUVO1UU
+1697632564785,692,Swingpay_T04_Logoff,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,true,,19039,3,3,0,1,0,DESKTOP-VUVO1UU
+1697632565481,2,Debug Sampler,200,OK,Thread Group 1-9,true,,415,3,3,0,1,0,DESKTOP-VUVO1UU
+1697632564362,1142,Swingpay_T03_EntertheLogindeatils,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,true,,100124,2,2,0,1,0,DESKTOP-VUVO1UU
+1697632565387,693,Swingpay_T04_Logoff,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,true,,19039,2,2,0,1,0,DESKTOP-VUVO1UU
+1697632566084,1,Debug Sampler,200,OK,Thread Group 1-10,true,,416,2,2,0,1,0,DESKTOP-VUVO1UU
+1697632565508,697,Swingpay_T04_Logoff,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,true,,19039,1,1,0,1,0,DESKTOP-VUVO1UU
+1697632566209,1,Debug Sampler,200,OK,Thread Group 1-7,true,,414,1,1,0,1,0,DESKTOP-VUVO1UU

@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,success,failureMessage,bytes,grpThreads,allThreads,Latency,SampleCount,ErrorCount,Hostname
+1697636981229,1444,Swingpay_T01_Homepage,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,true,,204255,1,1,0,1,0,DESKTOP-VUVO1UU
+1697636982681,505,Swingpay_T02_ClickonLogin,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,23342,1,1,0,1,0,DESKTOP-VUVO1UU
+1697636983191,1127,Swingpay_T03_EntertheLogindeatils,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,true,,149774,1,1,0,1,0,DESKTOP-VUVO1UU
+1697636984324,285,Swingpay_T04_ClickonLeaveRequestandsumbitLeaveRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,25503,1,1,0,1,0,DESKTOP-VUVO1UU
+1697636984612,282,Swingpay_T05_EnterLeaverequestDeatilsandapplynowbutton,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,25722,1,1,0,1,0,DESKTOP-VUVO1UU
+1697636984896,282,Swingpay_T06_LeaveList,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,28632,1,1,0,1,0,DESKTOP-VUVO1UU
+1697636985180,687,Swingpay_T07_Logoff,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,19039,1,1,0,1,0,DESKTOP-VUVO1UU
+1697636985870,4,Debug Sampler,200,OK,Thread Group 1-1,true,,439,1,1,0,1,0,DESKTOP-VUVO1UU
